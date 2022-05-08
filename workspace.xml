@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="035baee6-bcfc-4861-8aef-ddb46b968434" name="变更" comment="" />
+    <list default="true" id="f2b9071d-79a8-422d-99e1-666917dabfa1" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,26 +14,25 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="26EtARyO0GSiPCmIMZczxn9V2lE" />
+  <component name="ProjectId" id="26C3bt3C779OuWDYO6bGlYML9r6" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
-    <property name="project.structure.last.edited" value="模块" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="SDK" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration name="Caculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Caculator" />
-      <module name="caculator" />
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SnakeGame.MainFrame" />
+      <module name="Games" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="SnakeGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -43,18 +42,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Caculator" />
+        <item itemvalue="应用程序.MainFrame" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="035baee6-bcfc-4861-8aef-ddb46b968434" name="变更" comment="" />
-      <created>1647000431398</created>
+      <changelist id="f2b9071d-79a8-422d-99e1-666917dabfa1" name="更改" comment="" />
+      <created>1646913816286</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647000431398</updated>
+      <updated>1646913816286</updated>
     </task>
     <servers />
   </component>
